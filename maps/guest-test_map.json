@@ -1,0 +1,50 @@
+{
+  "blocks": [
+    {
+      "type": "start",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": 65280
+    },
+    {
+      "type": "goal",
+      "position": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "color": 16713216
+    },
+    {
+      "type": "standard",
+      "position": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 5.5
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "position": {
+        "x": 1.5,
+        "y": 1.5,
+        "z": 5.5
+      },
+      "color": 6684927
+    },
+    {
+      "type": "standard",
+      "position": {
+        "x": 1.5,
+        "y": 2.5,
+        "z": 5.5
+      },
+      "color": 65322
+    }
+  ],
+  "createdAt": "2025-05-29T04:37:44.085Z"
+}
