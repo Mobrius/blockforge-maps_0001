@@ -1,0 +1,106 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "position": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "position": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 3.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "position": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "position": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 3.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65331
+    },
+    {
+      "type": "light",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 3.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 49151,
+      "intensity": 56,
+      "distance": 34
+    }
+  ],
+  "createdAt": "2025-06-01T16:24:09.105Z"
+}
