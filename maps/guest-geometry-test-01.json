@@ -1,0 +1,110 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 1.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 2.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 4.5,
+        "y": 0,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 5.5,
+        "y": 0,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    }
+  ],
+  "createdAt": "2025-06-03T03:01:51.807Z"
+}
