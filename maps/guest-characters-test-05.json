@@ -1,0 +1,37 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": -9.5,
+        "y": 0.5,
+        "z": 9.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16777215
+    }
+  ],
+  "characters": [
+    {
+      "name": "chicken",
+      "type": "passive",
+      "position": {
+        "x": -9.5,
+        "y": 0.5,
+        "z": 9.5
+      }
+    }
+  ],
+  "createdAt": "2025-06-12T04:34:43.744Z"
+}
