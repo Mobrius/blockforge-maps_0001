@@ -1,0 +1,42 @@
+{
+  "blocks": [],
+  "characters": [
+    {
+      "name": "chicken",
+      "type": "passive",
+      "position": {
+        "x": -9.5,
+        "y": 0.5,
+        "z": 9.5
+      }
+    },
+    {
+      "name": "bot",
+      "type": "friendly",
+      "position": {
+        "x": 9.5,
+        "y": 0.5,
+        "z": -9.5
+      }
+    },
+    {
+      "name": "bomb",
+      "type": "hostile",
+      "position": {
+        "x": -9.5,
+        "y": 0.5,
+        "z": -9.5
+      }
+    },
+    {
+      "name": "pig",
+      "type": "passive",
+      "position": {
+        "x": 9.5,
+        "y": 0.5,
+        "z": 8.5
+      }
+    }
+  ],
+  "createdAt": "2025-06-12T04:57:26.363Z"
+}
