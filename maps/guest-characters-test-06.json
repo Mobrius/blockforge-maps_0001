@@ -1,0 +1,15 @@
+{
+  "blocks": [],
+  "characters": [
+    {
+      "name": "chicken",
+      "type": "passive",
+      "position": {
+        "x": -9.5,
+        "y": 0.5,
+        "z": 9.5
+      }
+    }
+  ],
+  "createdAt": "2025-06-12T04:39:18.059Z"
+}
