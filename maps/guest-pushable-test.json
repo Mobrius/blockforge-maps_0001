@@ -1,0 +1,65 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "pushable",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65284
+    },
+    {
+      "type": "pushable",
+      "position": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 5.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65322
+    }
+  ],
+  "characters": [],
+  "createdAt": "2025-06-16T14:38:46.172Z"
+}
