@@ -1,0 +1,128 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 4.5,
+        "y": 0.5,
+        "z": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 4.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "pushable",
+      "position": {
+        "x": 5.4496590323072045,
+        "y": 0.5,
+        "z": 4.720176076532774
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65356
+    },
+    {
+      "type": "pushable",
+      "position": {
+        "x": 3.6527935336366175,
+        "y": 0.5,
+        "z": -4.193119646120389
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65356
+    }
+  ],
+  "characters": [],
+  "createdAt": "2025-06-16T13:36:31.639Z"
+}
