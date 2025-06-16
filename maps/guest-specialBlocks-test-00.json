@@ -2,7 +2,7 @@
   "blocks": [
     {
       "type": "reward",
-      "model": "gold",
+      "modelName": "gold",
       "position": {
         "x": 1.5,
         "y": 0.10799486935138702,
