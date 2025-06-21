@@ -1,0 +1,73 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": -0.5,
+        "y": 0.5,
+        "z": 4.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 2.5,
+        "y": 0.5,
+        "z": 3.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 2.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    }
+  ],
+  "characters": [],
+  "backgroundColor": "000000",
+  "lightColor": "e1fd0d",
+  "lightIntensity": 5,
+  "lightY": -3.5,
+  "createdAt": "2025-06-21T07:46:19.168Z"
+}
