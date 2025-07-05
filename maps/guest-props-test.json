@@ -1,0 +1,72 @@
+{
+  "blocks": [
+    {
+      "type": "seat",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 0,
+        "y": 0.3011187016963959,
+        "z": 0
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65280
+    },
+    {
+      "type": "back",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 0,
+        "y": 0.9566383063793182,
+        "z": -0.375
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65280
+    },
+    {
+      "type": "props",
+      "modelName": "Scene",
+      "color": "#ff0000",
+      "position": {
+        "x": 5.5,
+        "y": 0.6555196046829224,
+        "z": 1.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  "characters": [],
+  "backgroundColor": "e5f6ff",
+  "lightColor": "ffffff",
+  "lightIntensity": 2.5,
+  "lightY": 20,
+  "createdAt": "2025-07-05T04:31:18.570Z"
+}
