@@ -1,0 +1,123 @@
+{
+  "blocks": [
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 0.5,
+        "y": 0.5,
+        "z": 5.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 16711680
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 6.5,
+        "y": 0.5,
+        "z": 4.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 1966335
+    },
+    {
+      "type": "standard",
+      "materialType": "plastic",
+      "geometryType": "box",
+      "position": {
+        "x": 3.5,
+        "y": 0.5,
+        "z": 5.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      },
+      "color": 65356
+    },
+    {
+      "type": "props",
+      "modelName": "chair",
+      "color": "#00ff4c",
+      "position": {
+        "x": 6.5,
+        "y": 0.6555196046829224,
+        "z": 0.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    },
+    {
+      "type": "props",
+      "modelName": "chair",
+      "color": "#1e00ff",
+      "position": {
+        "x": 7.5,
+        "y": 0.6555196046829224,
+        "z": 3.5
+      },
+      "rotation": {
+        "x": 0,
+        "y": 0,
+        "z": 0
+      },
+      "scale": {
+        "x": 1,
+        "y": 1,
+        "z": 1
+      }
+    }
+  ],
+  "characters": [
+    {
+      "name": "chicken",
+      "type": "passive",
+      "position": {
+        "x": 3.5,
+        "y": 0.5736040472984314,
+        "z": 1.5
+      }
+    }
+  ],
+  "backgroundColor": "e5f6ff",
+  "lightColor": "ffffff",
+  "lightIntensity": 2.5,
+  "lightY": 20,
+  "createdAt": "2025-07-09T06:55:02.864Z"
+}
